@@ -1,4 +1,5 @@
 # Entregável 3.1
+**INTEGRANTES: Nikolas Lopes, Guilherme Mayer, Jonathan Acedero e Vinicius Góis.**
 
 Tomando como base o vetor de objetos de personagens de Naruto, implemente as questões abaixo (siga os exemplos!)
 
